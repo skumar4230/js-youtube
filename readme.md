@@ -7,4 +7,5 @@
 - github repo to seek reference later
 - projects link of chai aur code
 -             https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html
--
+
+# Stack and Heap
